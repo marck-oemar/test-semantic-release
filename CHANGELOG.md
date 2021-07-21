@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.5.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.4.0...v1.5.0) (2021-07-21)
+
+
+### Features
+
+* check path ([c08af88](https://github.com/marck-oemar/test-semantic-release/commit/c08af88c5405c825b7e1a1f2ae9cb5180cb4b790))
+
 # [1.4.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.3.0...v1.4.0) (2021-07-21)
 
 
