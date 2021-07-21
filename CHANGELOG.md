@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.6.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.5.0...v1.6.0) (2021-07-21)
+
+
+### Features
+
+* add upload fix ([33e84d7](https://github.com/marck-oemar/test-semantic-release/commit/33e84d7af20256396a518188b88112fadf61e627))
+
 # [1.5.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.4.0...v1.5.0) (2021-07-21)
 
 
