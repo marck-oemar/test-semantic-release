@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.3.0...v1.4.0) (2021-07-21)
+
+
+### Features
+
+* test exec ([8e7c102](https://github.com/marck-oemar/test-semantic-release/commit/8e7c1021955d2fb47d21c83365bc6816b8fa4b62))
+
 # [1.3.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.2.0...v1.3.0) (2021-07-21)
 
 
