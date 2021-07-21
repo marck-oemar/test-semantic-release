@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.2.0...v1.3.0) (2021-07-21)
+
+
+### Features
+
+* add upload artefact release ([267141e](https://github.com/marck-oemar/test-semantic-release/commit/267141eedd2bfd7ff888353ffbc150d5c9f476e7))
+
 # [1.2.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.1.0...v1.2.0) (2021-07-21)
 
 
