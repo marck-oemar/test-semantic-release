@@ -22,6 +22,11 @@
                 ]
             }
         ],
+        ["@semantic-release/exec",
+            {
+                "successCmd": "./cicd/scripts/upload-pseudo-artifact.sh ${nextRelease.version}"
+            }
+        ],        
         ["@semantic-release/github",
             {
                 "assets": [
