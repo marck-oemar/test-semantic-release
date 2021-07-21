@@ -24,7 +24,7 @@
         ],
         ["@semantic-release/exec",
             {
-                "successCmd": "chmod +ux ./cicd/scripts/upload-pseudo-artifact.sh ; ./cicd/scripts/upload-pseudo-artifact.sh ${nextRelease.version} ${Date.now()}"
+                "successCmd": "chmod u+x ./cicd/scripts/upload-pseudo-artifact.sh ; ./cicd/scripts/upload-pseudo-artifact.sh ${nextRelease.version} ${Date.now()}"
             }
         ],        
         ["@semantic-release/github",
