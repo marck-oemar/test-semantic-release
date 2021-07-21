@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.7.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.6.0...v1.7.0) (2021-07-21)
+
+
+### Features
+
+* fix typo ([864589f](https://github.com/marck-oemar/test-semantic-release/commit/864589fc344c62c81f39ef7cfb9b161cc90522db))
+
 # [1.6.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.5.0...v1.6.0) (2021-07-21)
 
 
