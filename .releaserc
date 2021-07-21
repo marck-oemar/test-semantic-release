@@ -24,7 +24,7 @@
         ],
         ["@semantic-release/exec",
             {
-                "successCmd": "./cicd/scripts/upload-pseudo-artifact.sh ${nextRelease.version}"
+                "successCmd": "ls -lah ; pwd"
             }
         ],        
         ["@semantic-release/github",
